@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# DataBases
+*.VC.db
+*.db
