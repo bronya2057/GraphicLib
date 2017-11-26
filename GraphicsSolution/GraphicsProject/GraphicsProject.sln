@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicLibrary", "..\..\Gra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicLibraryDLL", "..\..\GraphicLibraryDLL\GraphicLibraryDLL\GraphicLibraryDLL.vcxproj", "{CE887D72-C998-4A16-9F55-5C4B1C6442D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicLibSFMLTest", "..\..\ProjectSFMLTest\GraphicLibSFMLTest.vcxproj", "{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{CE887D72-C998-4A16-9F55-5C4B1C6442D8}.Release|x64.Build.0 = Release|x64
 		{CE887D72-C998-4A16-9F55-5C4B1C6442D8}.Release|x86.ActiveCfg = Release|Win32
 		{CE887D72-C998-4A16-9F55-5C4B1C6442D8}.Release|x86.Build.0 = Release|Win32
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Debug|x64.ActiveCfg = Debug|x64
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Debug|x64.Build.0 = Debug|x64
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Debug|x86.Build.0 = Debug|Win32
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Release|x64.ActiveCfg = Release|x64
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Release|x64.Build.0 = Release|x64
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Release|x86.ActiveCfg = Release|Win32
+		{5B7FD35A-99B4-48BC-AEDD-4A6E9A8C2A97}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
