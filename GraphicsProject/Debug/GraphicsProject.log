@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\..\GraphicLibraryDLL\GraphicLibraryDLL\GraphicLibraryDLL.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\..\GraphicLibrary\GraphicLibrary\GraphicLibrary.vcxproj' does not exist.
+  Source.cpp
+c:\dev\projects\git\graphiclib\graphicsproject\source.cpp(36): warning C4101: 'tables': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'GraphicLibrary.lib'

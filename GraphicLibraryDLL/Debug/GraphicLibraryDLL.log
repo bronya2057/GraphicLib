@@ -1,0 +1,10 @@
+﻿  GraphicLibDll.cpp
+c:\dev\projects\git\graphiclib\graphiclibrarydll\graphiclibdll.cpp(9): warning C4273: 'MathLibrary::Functions::Add': inconsistent dll linkage
+  c:\dev\projects\git\graphiclib\graphiclibrarydll\graphiclibdll.hpp(17): note: see previous definition of 'Add'
+c:\dev\projects\git\graphiclib\graphiclibrarydll\graphiclibdll.cpp(14): warning C4273: 'MathLibrary::Functions::Multiply': inconsistent dll linkage
+  c:\dev\projects\git\graphiclib\graphiclibrarydll\graphiclibdll.hpp(20): note: see previous definition of 'Multiply'
+c:\dev\projects\git\graphiclib\graphiclibrarydll\graphiclibdll.cpp(19): warning C4273: 'MathLibrary::Functions::AddMultiply': inconsistent dll linkage
+  c:\dev\projects\git\graphiclib\graphiclibrarydll\graphiclibdll.hpp(23): note: see previous definition of 'AddMultiply'
+     Creating library C:\dev\projects\GIT\GraphicLib\GraphicsSolution\Debug\GraphicLibraryDLL.lib and object C:\dev\projects\GIT\GraphicLib\GraphicsSolution\Debug\GraphicLibraryDLL.exp
+  GraphicLibraryDLL.vcxproj -> C:\dev\projects\GIT\GraphicLib\GraphicsSolution\Debug\GraphicLibraryDLL.dll
+  GraphicLibraryDLL.vcxproj -> C:\dev\projects\GIT\GraphicLib\GraphicsSolution\Debug\GraphicLibraryDLL.pdb (Full PDB)
