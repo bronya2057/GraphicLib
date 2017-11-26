@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\programming\graphics\graphicsproject\graphicsproject\source.cpp(34): warning C4101: 'tables': unreferenced local variable
+  GraphicsProject.vcxproj -> D:\Programming\Graphics\GraphicsSolution\GraphicsProject\Debug\GraphicsProject.exe
+  GraphicsProject.vcxproj -> D:\Programming\Graphics\GraphicsSolution\GraphicsProject\Debug\GraphicsProject.pdb (Full PDB)
